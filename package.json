@@ -1,0 +1,17 @@
+{
+  "name": "task-footprint",
+  "version": "1.0.0",
+  "description": "Task recording and listening module for compressing, indexing and unpacking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "task",
+    "compressing",
+    "indexing",
+    "unpacking"
+  ],
+  "author": "Przemysław Walczak",
+  "license": "ISC"
+}
