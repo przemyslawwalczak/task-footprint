@@ -13,5 +13,11 @@
     "unpacking"
   ],
   "author": "Przemysław Walczak",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bl": "^4.0.3"
+  },
+  "devDependencies": {
+    "hexy": "^0.3.0"
+  }
 }
