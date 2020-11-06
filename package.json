@@ -1,6 +1,6 @@
 {
   "name": "task-footprint",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Task recording and listening module for compressing, indexing and unpacking.",
   "main": "index.js",
   "scripts": {
