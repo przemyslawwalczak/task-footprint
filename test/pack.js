@@ -2,7 +2,7 @@ const Footprint = require('../index')
 
 new Footprint.WritableStream('./data.bin')
 .then(async data => {
-  for (let i=0; i<1000; i++) {
+  for (let i=0; i<10000; i++) {
     await data.delta({
       hello: 'world',
       counter: Math.random()
